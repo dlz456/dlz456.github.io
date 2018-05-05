@@ -1,8 +1,22 @@
 body{
-	background-color: blue
+	background-image: url(../images/dragonageii.jpg);
 
 }
 
 h1{
-	color:red;
+	color:#0f15bf;
+	font-family: cursive;
+}
+
+div {
+	background-color:grey;
+	float: left;
+}
+
+p{
+	font-family: verdana;
+}
+
+img{
+ margin-right: 70px;
 }
